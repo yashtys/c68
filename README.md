@@ -1,2 +1,2 @@
-# c68
-shit
+# PRO-C68-PROJECT
+After Class Project for C68
